@@ -1,5 +1,6 @@
 %function [d, matching_pairs] = fname(folder)
 
+resultsPath = 'C:\Users\erico\Documents\GitHub\Neuron-tracking-over-time';
 monkeyInfoFile_joysticktask;
 
 waveforms(length(monkeyInfo)).unitIDs = [];
@@ -58,6 +59,7 @@ allWaves.id = [allWaves.id ; waveforms(fileNum).unitIDs];
 allWaves.channel = [allWaves.channel ; [waveforms(fileNum).clusters.bestchannel]'];
 end
 
-
+cd(resultsPath); 
+save('allWaves.mat', 'allWaves', '-v7.3')
 
 %end
