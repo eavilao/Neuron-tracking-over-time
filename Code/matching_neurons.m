@@ -1,4 +1,4 @@
-%function [d, matching_pairs] = fname(folder)
+%function [d, matching_neurons] = fname(folder)
 
 resultsPath = 'C:\Users\erico\Documents\GitHub\Neuron-tracking-over-time';
 monkeyInfoFile_joysticktask;
@@ -13,7 +13,7 @@ waveforms(length(monkeyInfo)).meanWave = [];
 for fileNum = 1:length(monkeyInfo)
     disp([ 'Running file  >> ' num2str(fileNum) ' <<  ('  monkeyInfo(fileNum).folder ')  of   ' num2str(length(monkeyInfo))]);
     % go to data folder
-    pathFile = ['Z:\NewZDrive\Data\Monkey\' monkeyInfo(fileNum).folder '\neural data\'];
+    pathFile = [monkeyInfo(fileNum).folder '\neural data\'];
     cd(pathFile)
     
     % Extract spike times and spike cluster ids
@@ -60,6 +60,6 @@ allWaves.channel = [allWaves.channel ; [waveforms(fileNum).clusters.bestchannel]
 end
 
 cd(resultsPath); 
-save('allWaves.mat', 'allWaves', '-v7.3')
+save('allWaves.mat', 'allWaves', '-v7.3'); 
 
 %end

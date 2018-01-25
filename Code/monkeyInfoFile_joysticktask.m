@@ -492,7 +492,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jan 25 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jan 25 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 44
@@ -503,7 +503,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jan 26 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jan 26 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 45
@@ -514,7 +514,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jan 27 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jan 27 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 46
@@ -525,7 +525,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jan 28 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jan 28 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 47
@@ -536,7 +536,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jan 30 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jan 30 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 48
@@ -547,7 +547,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jan 31 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jan 31 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 49
@@ -558,7 +558,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 1 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 1 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 50
@@ -569,7 +569,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 2 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 2 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 51
@@ -580,7 +580,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 3 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 3 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 52
@@ -591,7 +591,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 4 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 4 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 53
@@ -602,7 +602,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 6 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 6 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 54
@@ -613,7 +613,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 7 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 7 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 55
@@ -624,7 +624,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 8 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 8 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 56
@@ -635,7 +635,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 9 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 9 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 57
@@ -646,7 +646,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 10 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 10 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 58
@@ -657,7 +657,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 22 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 22 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 59
@@ -668,7 +668,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 23 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 23 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 60
@@ -679,7 +679,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 24 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 24 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 61
@@ -690,7 +690,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 25 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 25 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 62
@@ -701,7 +701,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 27 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 27 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 63
@@ -712,7 +712,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Feb 28 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Feb 28 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 64
@@ -723,7 +723,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 1 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 1 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 65
@@ -734,7 +734,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 2 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 2 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 66
@@ -745,18 +745,19 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 5 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 5 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
+
 
 %% session 67
 monkeyInfo (end+1).monk_id = 44;
-monkeyInfo (end).session_id = 67;
+monkeyInfo (end).session_id = 68;
 monkeyInfo (end).coord.row = nan;
 monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 6 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 7 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 68
@@ -767,7 +768,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 7 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 8 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 69
@@ -778,7 +779,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 8 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 9 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 70
@@ -789,7 +790,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 9 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 13 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 71
@@ -800,7 +801,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 13 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 14 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 72
@@ -811,7 +812,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 14 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 15 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 73
@@ -822,7 +823,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 15 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 16 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 74
@@ -833,7 +834,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 16 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 17 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 75
@@ -844,7 +845,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 17 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 20 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 76
@@ -855,8 +856,8 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 20 2017';
-monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, fixed DCI, fixed ITI'};
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 21 2017';
+monkeyInfo (end).comments = {'fixed density, distance landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 77
 monkeyInfo (end+1).monk_id = 44;
@@ -866,7 +867,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 21 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 22 2017';
 monkeyInfo (end).comments = {'fixed density, distance landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 78
@@ -877,8 +878,8 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 22 2017';
-monkeyInfo (end).comments = {'fixed density, distance landmarks, no ptb, fixed DCI, fixed ITI'};
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 27 2017';
+monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 79
 monkeyInfo (end+1).monk_id = 44;
@@ -888,7 +889,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 27 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 28 2017';
 monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, no ptb, fixed DCI, fixed ITI'};
 
 %% session 80
@@ -899,8 +900,8 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 28 2017';
-monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, no ptb, fixed DCI, fixed ITI'};
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 29 2017';
+monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
 
 %% session 81
 monkeyInfo (end+1).monk_id = 44;
@@ -910,7 +911,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 29 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 30 2017';
 monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
 
 %% session 82
@@ -921,7 +922,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 30 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Mar 31 2017';
 monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
 
 %% session 83
@@ -932,7 +933,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Mar 31 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 3 2017';
 monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
 
 %% session 84
@@ -943,7 +944,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 3 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 4 2017';
 monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
 
 %% session 85
@@ -954,7 +955,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 4 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 5 2017';
 monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
 
 %% session 86
@@ -965,7 +966,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 5 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 6 2017';
 monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
 
 %% session 87
@@ -976,7 +977,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 6 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 7 2017';
 monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
 
 %% session 88
@@ -987,7 +988,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 7 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 10 2017';
 monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
 
 %% session 89
@@ -998,8 +999,8 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 10 2017';
-monkeyInfo (end).comments = {'fixed density, distance and angular landmarks, replay, no ptb, fixed DCI, fixed ITI'};
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 11 2017';
+monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 90
 monkeyInfo (end+1).monk_id = 44;
@@ -1009,7 +1010,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 11 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 12 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 91
@@ -1020,7 +1021,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 12 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 13 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 92
@@ -1031,7 +1032,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 14 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 14 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 93
@@ -1042,7 +1043,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 17 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 17 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 94
@@ -1053,7 +1054,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 18 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 18 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 95
@@ -1064,7 +1065,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 19 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 19 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 96
@@ -1075,7 +1076,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 20 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 20 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 97
@@ -1086,7 +1087,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 21 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 21 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 98
@@ -1097,7 +1098,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 24 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 24 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 99
@@ -1108,7 +1109,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 25 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 25 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 100
@@ -1119,7 +1120,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 26 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 26 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 101
@@ -1130,7 +1131,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 27 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 27 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 102
@@ -1141,7 +1142,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Apr 28 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Apr 28 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 103
@@ -1152,7 +1153,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 1 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 1 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 104
@@ -1163,7 +1164,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 2 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 2 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 105
@@ -1174,7 +1175,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 3 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 3 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 106
@@ -1185,7 +1186,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 4 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 4 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 107
@@ -1196,7 +1197,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 5 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 5 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 108
@@ -1207,7 +1208,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 8 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 8 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 109
@@ -1218,7 +1219,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 9 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 9 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI' ...
 'one hour recording with no stimulus after joystick task'};
 
@@ -1230,7 +1231,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 10 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 10 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 111
@@ -1241,7 +1242,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 11 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 11 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 112
@@ -1252,7 +1253,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 12 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 12 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 113
@@ -1263,7 +1264,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 15 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 15 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 114
@@ -1274,7 +1275,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 16 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 16 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 115
@@ -1285,7 +1286,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 17 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 17 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 116
@@ -1296,7 +1297,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 18 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 18 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, fixed DCI, fixed ITI'};
 
 %% session 117
@@ -1307,7 +1308,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 23 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 23 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 118
@@ -1318,7 +1319,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 24 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 24 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 119
@@ -1329,7 +1330,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 25 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 25 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 120
@@ -1340,7 +1341,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 26 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 26 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 121
@@ -1351,7 +1352,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 30 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 30 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 122
@@ -1362,7 +1363,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\May 31 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\May 31 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 123
@@ -1373,7 +1374,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 1 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 1 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 124
@@ -1384,7 +1385,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 2 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 2 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 125
@@ -1395,7 +1396,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 5 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 5 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 126
@@ -1406,7 +1407,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 6 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 6 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 127
@@ -1417,7 +1418,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 7 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 7 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 128
@@ -1428,7 +1429,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 8 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 8 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, perturbations, two DCI, fixed ITI'};
 
 %% session 129
@@ -1439,7 +1440,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 12 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 12 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI, three velocities'};
 
 %% session 130
@@ -1450,7 +1451,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 13 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 13 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI, three velocities'};
 
 %% session 131
@@ -1461,7 +1462,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 14 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 14 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI, three velocities'};
 
 %% session 132
@@ -1472,7 +1473,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 15 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 15 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI, three velocities'};
 
 %% session 133
@@ -1483,7 +1484,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 16 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 16 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI, three velocities'};
 
 %% session 134
@@ -1494,7 +1495,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 19 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 19 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI, three velocities'};
 
 %% session 135
@@ -1505,7 +1506,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 20 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 20 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI'};
 
 %% session 136
@@ -1516,7 +1517,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 21 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 21 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI, two velocities'};
 
 %% session 137
@@ -1527,7 +1528,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 22 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 22 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI, three velocities'};
 
 %% session 138
@@ -1538,7 +1539,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 23 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 23 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, two DCI, random ITI, three velocities'};
 
 %% session 139
@@ -1549,7 +1550,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 27 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 27 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, random DCI, random ITI, fixed ground'};
 
 %% session 140
@@ -1560,7 +1561,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 28 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 28 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, random DCI, random ITI, fixed ground'};
 
 %% session 141
@@ -1571,7 +1572,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 29 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 29 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, random DCI, random ITI, fixed ground'};
 
 %% session 142
@@ -1582,7 +1583,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jun 30 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jun 30 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, random DCI, random ITI, fixed ground'};
 
 %% session 143
@@ -1593,7 +1594,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Jul 3 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Jul 3 2017';
 monkeyInfo (end).comments = {'fixed density, no landmarks, no ptb, random DCI, random ITI, fixed ground'};
 
 %% session 144
@@ -1604,7 +1605,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Aug 1 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Aug 1 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, random ITI'};
 
 %% session 145
@@ -1615,7 +1616,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Aug 2 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Aug 2 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, random ITI'};
 
 %% session 146
@@ -1626,7 +1627,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Aug 3 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Aug 3 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, random ITI'};
 
 %% session 147
@@ -1637,7 +1638,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Aug 4 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Aug 4 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, random ITI'};
 
 %% session 148
@@ -1648,7 +1649,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Aug 8 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Aug 8 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, random ITI'};
 
 %% session 149
@@ -1659,7 +1660,7 @@ monkeyInfo (end).coord.column = nan;
 monkeyInfo (end).coord.depth = nan;
 monkeyInfo (end).channels = 1:96;
 monkeyInfo (end).units = 0;
-monkeyInfo (end).folder = 'Quigley\Utah array\Aug 9 2017';
+monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Quigley\Utah array\Aug 9 2017';
 monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, random ITI'};
 
 %% 
@@ -2078,7 +2079,7 @@ monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, r
 % monkeyInfo (end).coord.depth = nan;
 % monkeyInfo (end).channels = 1:96;
 % monkeyInfo (end).units = 0;
-% monkeyInfo (end).folder = 'Bruno\Utah array\Jul 31 2017';
+% monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Bruno\Utah array\Jul 31 2017';
 % monkeyInfo (end).comments = {'four densities, no landmarks, no ptb, random DCI, random ITI' ...
 % 'monkey did not work well'};
 % 
@@ -2090,7 +2091,7 @@ monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, r
 % monkeyInfo (end).coord.depth = nan;
 % monkeyInfo (end).channels = 1:96;
 % monkeyInfo (end).units = 0;
-% monkeyInfo (end).folder = 'Bruno\Utah array\Aug 1 2017';
+% monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Bruno\Utah array\Aug 1 2017';
 % monkeyInfo (end).comments = {'four densities, no landmarks, no ptb, random DCI, random ITI' ...
 % 'monkey did not work well'};
 % 
@@ -2102,7 +2103,7 @@ monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, r
 % monkeyInfo (end).coord.depth = nan;
 % monkeyInfo (end).channels = 1:96;
 % monkeyInfo (end).units = 0;
-% monkeyInfo (end).folder = 'Bruno\Utah array\Aug 2 2017';
+% monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Bruno\Utah array\Aug 2 2017';
 % monkeyInfo (end).comments = {'four densities, no landmarks, no ptb, random DCI, random ITI' ...
 % 'monkey did not work well'};
 % 
@@ -2114,7 +2115,7 @@ monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, r
 % monkeyInfo (end).coord.depth = nan;
 % monkeyInfo (end).channels = 1:96;
 % monkeyInfo (end).units = 0;
-% monkeyInfo (end).folder = 'Bruno\Utah array\Aug 3 2017';
+% monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Bruno\Utah array\Aug 3 2017';
 % monkeyInfo (end).comments = {'four densities, no landmarks, no ptb, random DCI, random ITI'};
 % 
 % %% session 41
@@ -2125,7 +2126,7 @@ monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, r
 % monkeyInfo (end).coord.depth = nan;
 % monkeyInfo (end).channels = 1:96;
 % monkeyInfo (end).units = 0;
-% monkeyInfo (end).folder = 'Bruno\Utah array\Aug 4 2017';
+% monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Bruno\Utah array\Aug 4 2017';
 % monkeyInfo (end).comments = {'four densities, no landmarks, no ptb, random DCI, random ITI'};
 % 
 % %% session 42
@@ -2136,7 +2137,7 @@ monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, r
 % monkeyInfo (end).coord.depth = nan;
 % monkeyInfo (end).channels = 1:96;
 % monkeyInfo (end).units = 0;
-% monkeyInfo (end).folder = 'Bruno\Utah array\Aug 5 2017';
+% monkeyInfo (end).folder = '\\discovery2\bcm-neuro-primus\Data\MOOG\Bruno\Utah array\Aug 5 2017';
 % monkeyInfo (end).comments = {'four densities, no landmarks, no ptb, random DCI, random ITI'};
 % 
 % %% session 43
@@ -2171,6 +2172,491 @@ monkeyInfo (end).comments = {'two densities, no landmarks, no ptb, random DCI, r
 % monkeyInfo (end).units = 0;
 % monkeyInfo (end).folder = 'Bruno\U-probe\Oct 9 2017';
 % monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'};
+
+% %% session 46
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 46;
+% monkeyInfo (end).coord.row = -4;
+% monkeyInfo (end).coord.column = 14;
+% monkeyInfo (end).coord.depth = 5550;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 10 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% %% session 47
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 47;
+% monkeyInfo (end).coord.row = -5;
+% monkeyInfo (end).coord.column = 18;
+% monkeyInfo (end).coord.depth = 3311;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 11 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% %% session 48
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 48;
+% monkeyInfo (end).coord.row = -6;
+% monkeyInfo (end).coord.column = 15;
+% monkeyInfo (end).coord.depth = 2726;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 12 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 49
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 49;
+% monkeyInfo (end).coord.row = -7;
+% monkeyInfo (end).coord.column = 13;
+% monkeyInfo (end).coord.depth = 2123;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 13 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 50
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 50;
+% monkeyInfo (end).coord.row = -5;
+% monkeyInfo (end).coord.column = 19;
+% monkeyInfo (end).coord.depth = 2730;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 16 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 51
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 51;
+% monkeyInfo (end).coord.row = -7;
+% monkeyInfo (end).coord.column = 15;
+% monkeyInfo (end).coord.depth = 2269;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 17 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 52
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 52;
+% monkeyInfo (end).coord.row = -6;
+% monkeyInfo (end).coord.column = 17;
+% monkeyInfo (end).coord.depth = 2799;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 20 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 53
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 53;
+% monkeyInfo (end).coord.row = -4;
+% monkeyInfo (end).coord.column = 21;
+% monkeyInfo (end).coord.depth = 3218;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 23 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 54
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 54;
+% monkeyInfo (end).coord.row = -2;
+% monkeyInfo (end).coord.column = 21;
+% monkeyInfo (end).coord.depth = 3404;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 25 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 55
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 55;
+% monkeyInfo (end).coord.row = -7;
+% monkeyInfo (end).coord.column = 19;
+% monkeyInfo (end).coord.depth = 2900;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 26 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 56
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 56;
+% monkeyInfo (end).coord.row = -8;
+% monkeyInfo (end).coord.column = 17;
+% monkeyInfo (end).coord.depth = 3847;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 27 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 57
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 57;
+% monkeyInfo (end).coord.row = -1;
+% monkeyInfo (end).coord.column = 20;
+% monkeyInfo (end).coord.depth = 3230;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Oct 30 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 58
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 58;
+% monkeyInfo (end).coord.row = -4;
+% monkeyInfo (end).coord.column = 22;
+% monkeyInfo (end).coord.depth = 2221;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 1 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% %% session 59
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 59;
+% monkeyInfo (end).coord.row = -1;
+% monkeyInfo (end).coord.column = 22;
+% monkeyInfo (end).coord.depth = 5518;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 2 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% %% session 60
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 60;
+% monkeyInfo (end).coord.row = -6;
+% monkeyInfo (end).coord.column = 20;
+% monkeyInfo (end).coord.depth = 4217;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 3 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 61
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 61;
+% monkeyInfo (end).coord.row = -6;
+% monkeyInfo (end).coord.column = 20;
+% monkeyInfo (end).coord.depth = 4249;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 3 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 62
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 62;
+% monkeyInfo (end).coord.row = -7;
+% monkeyInfo (end).coord.column = 21;
+% monkeyInfo (end).coord.depth = 3196;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 6 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 63
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 63;
+% monkeyInfo (end).coord.row = -7;
+% monkeyInfo (end).coord.column = 21;
+% monkeyInfo (end).coord.depth = 3085;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 6 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 64
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 64;
+% monkeyInfo (end).coord.row = -9;
+% monkeyInfo (end).coord.column = 19;
+% monkeyInfo (end).coord.depth = 2959;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 7 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 65
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 65;
+% monkeyInfo (end).coord.row = -5;
+% monkeyInfo (end).coord.column = 21;
+% monkeyInfo (end).coord.depth = 3172;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 8 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 66
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 66;
+% monkeyInfo (end).coord.row = -6;
+% monkeyInfo (end).coord.column = 19;
+% monkeyInfo (end).coord.depth = 1855;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 9 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% 
+% 
+% %% session 67
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 67;
+% monkeyInfo (end).coord.row = -4;
+% monkeyInfo (end).coord.column = 20;
+% monkeyInfo (end).coord.depth = 2158;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 10 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% 
+% %% session 68
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 68;
+% monkeyInfo (end).coord.row = -6;
+% monkeyInfo (end).coord.column = 16;
+% monkeyInfo (end).coord.depth = 3015;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 13 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% 
+% %% session 69
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 69;
+% monkeyInfo (end).coord.row = -7;
+% monkeyInfo (end).coord.column = 18;
+% monkeyInfo (end).coord.depth = 4487;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 14 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 70
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 70;
+% monkeyInfo (end).coord.row = -5;
+% monkeyInfo (end).coord.column = 23;
+% monkeyInfo (end).coord.depth = 2549;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 15 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 71
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 71;
+% monkeyInfo (end).coord.row = -9;
+% monkeyInfo (end).coord.column = 16;
+% monkeyInfo (end).coord.depth = 1032;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 17 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 72
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 72;
+% monkeyInfo (end).coord.row = -4;
+% monkeyInfo (end).coord.column = 23;
+% monkeyInfo (end).coord.depth = 927;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Aug 14 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 73
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 73;
+% monkeyInfo (end).coord.row = -5;
+% monkeyInfo (end).coord.column = 20;
+% monkeyInfo (end).coord.depth = 3086;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 20 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 74
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 74;
+% monkeyInfo (end).coord.row = -8;
+% monkeyInfo (end).coord.column = 20;
+% monkeyInfo (end).coord.depth = 801;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 21 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 75
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 75;
+% monkeyInfo (end).coord.row = -9;
+% monkeyInfo (end).coord.column = 13;
+% monkeyInfo (end).coord.depth = 2057;
+% monkeyInfo (end).channels = 1:16;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 22 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 76
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 76;
+% monkeyInfo (end).coord.row = -4;
+% monkeyInfo (end).coord.column = 21;
+% monkeyInfo (end).coord.depth = 2130;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 27 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 77
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 77;
+% monkeyInfo (end).coord.row = -6;
+% monkeyInfo (end).coord.column = 24;
+% monkeyInfo (end).coord.depth = 1485;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 28 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 78
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 78;
+% monkeyInfo (end).coord.row = -9;
+% monkeyInfo (end).coord.column = 14;
+% monkeyInfo (end).coord.depth = 1647;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 29 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+% 
+% %% session 79
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 79;
+% monkeyInfo (end).coord.row = -5;
+% monkeyInfo (end).coord.column = 22;
+% monkeyInfo (end).coord.depth = 1491;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Nov 30 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+
+% %% session 80
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 80;
+% monkeyInfo (end).coord.row = -8;
+% monkeyInfo (end).coord.column = 21;
+% monkeyInfo (end).coord.depth = 2208;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 1 2017';
+% monkeyInfo (end).comments = {'fixed densities, no landmarks, perturbations, random DCI, random ITI'}; 
+
+% %% session 81
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 81;
+% monkeyInfo (end).coord.row = -1;
+% monkeyInfo (end).coord.column = 24;
+% monkeyInfo (end).coord.depth = 2903;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 4 2017';
+% monkeyInfo (end).comments = {'variable joystick and angular speed, fixed
+% densities, no landmarks, no perturbations, random DCI, random ITI'}; \
+
+% %% session 82
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 82;
+% monkeyInfo (end).coord.row = -4;
+% monkeyInfo (end).coord.column = 22;
+% monkeyInfo (end).coord.depth = 2850;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 5 2017';
+% monkeyInfo (end).comments = {'variable joystick and angular speed, fixed densities, no landmarks, no perturbations, random DCI, random ITI'}; 
+% 
+% %% session 83
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 83;
+% monkeyInfo (end).coord.row = -9;
+% monkeyInfo (end).coord.column = 18;
+% monkeyInfo (end).coord.depth = 2499;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 6 2017';
+% monkeyInfo (end).comments = {'variable joystick and angular speed, fixed densities, no landmarks, no perturbations, random DCI, random ITI'}; 
+% 
+% %% session 84
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 84;
+% monkeyInfo (end).coord.row = -5;
+% monkeyInfo (end).coord.column = 24;
+% monkeyInfo (end).coord.depth = 1710;
+% monkeyInfo (end).channels = 1:16;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 7 2017';
+% monkeyInfo (end).comments = {'variable joystick and angular speed, fixed densities, no landmarks, no perturbations, random DCI, random ITI'}; 
+% 
+% %% session 85
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 85;
+% monkeyInfo (end).coord.row = -7;
+% monkeyInfo (end).coord.column = 24;
+% monkeyInfo (end).coord.depth = 1513;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 8 2017';
+% monkeyInfo (end).comments = {'variable joystick and angular speed, fixed densities, no landmarks, no perturbations, random DCI, random ITI'}; 
+% 
+% %% session 86
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 86;
+% monkeyInfo (end).coord.row = -9;
+% monkeyInfo (end).coord.column = 15;
+% monkeyInfo (end).coord.depth = 3303;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 18 2017';
+% monkeyInfo (end).comments = {'variable joystick and angular speed, fixed densities, no landmarks, no perturbations, random DCI, random ITI'}; 
+% 
+% %% session 87
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 87;
+% monkeyInfo (end).coord.row = -1;
+% monkeyInfo (end).coord.column = 25;
+% monkeyInfo (end).coord.depth = 3026;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 19 2017';
+% monkeyInfo (end).comments = {'variable joystick and angular speed, fixed densities, no landmarks, no perturbations, random DCI, random ITI'}; 
+% 
+% %% session 88
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 88;
+% monkeyInfo (end).coord.row = -7;
+% monkeyInfo (end).coord.column = 25;
+% monkeyInfo (end).coord.depth = 2344;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 20 2017';
+% monkeyInfo (end).comments = {'variable joystick and angular speed, fixed densities, no landmarks, no perturbations, random DCI, random ITI'}; 
+% 
+% %% session 89
+% monkeyInfo (end+1).monk_id = 51;
+% monkeyInfo (end).session_id = 89;
+% monkeyInfo (end).coord.row = -2;
+% monkeyInfo (end).coord.column = 22;
+% monkeyInfo (end).coord.depth = 1828;
+% monkeyInfo (end).channels = 1:24;
+% monkeyInfo (end).units = 0;
+% monkeyInfo (end).folder = 'Bruno\U-probe\Dec 21 2017';
+% monkeyInfo (end).comments = {'variable joystick and angular speed, fixed densities, no landmarks, no perturbations, random DCI, random ITI'}; 
 
 %%
 % %% test sessions

@@ -9,6 +9,6 @@ gwfparams.fileName = dat_file;                                                  
 gwfparams.dataType = 'int16';                                                                               % Data type of .dat file (this should be BP filtered)
 gwfparams.nCh = 96;                                                                                         % Number of channels that were streamed to disk in .dat file
 gwfparams.wfWin = [-40 41];                                                                                 % Number of samples before and after spiketime to include in waveform
-gwfparams.nWf = 10;                                                                                       % Number of waveforms per unit to pull out
+gwfparams.nWf = 2000;                                                                                       % Number of waveforms per unit to pull out
 gwfparams.spikeTimes = spikeTimes;                                                                          % Vector of cluster spike times (in samples) same length as .spikeClusters  [2,3,5,7,8,9];   
 gwfparams.spikeClusters = spikeClusters;                                                                    % Vector of cluster IDs (Phy nomenclature)   same length as .spikeTimes  [1,2,1,1,1,2];    
