@@ -44,14 +44,14 @@ for fileNum = 1:length(monkeyInfo)
 end
 
 allWaves.wfs = waveforms(1).meanWave; 
-allWaves.day = waveforms(1).day(:,(end-67:end));
+allWaves.day = waveforms(1).day;
 allWaves.label = {waveforms(1).clusters.label}'; 
 allWaves.id = waveforms(1).unitIDs; 
 allWaves.channel = [waveforms(1).clusters.bestchannel]';
 
 
 
-for fileNum = [2:8] %2:length(monkeyInfo)
+for fileNum = 2:length(monkeyInfo)
 allWaves.wfs = [allWaves.wfs; waveforms(fileNum).meanWave];
 allWaves.day = [allWaves.day; waveforms(fileNum).day(:,(end-67:end))];
 allWaves.label = [allWaves.label;{waveforms(fileNum).clusters.label}'];

@@ -42,13 +42,19 @@ numUnits = size(unitIDs,1);
 spikeTimeKeeps = nan(numUnits,gwfparams.nWf);
 waveForms = nan(numUnits,gwfparams.nWf,gwfparams.nCh,wfNSamples);
 waveFormsMean = nan(numUnits,gwfparams.nCh,wfNSamples);
-for curUnitInd=1:numUnits
+for curUnitInd= 1:numUnits
+    
+    if curUnitInd == 126
+        keyboard
+    end
+    
     curUnitID = unitIDs(curUnitInd);
     curSpikeTimes = gwfparams.spikeTimes(gwfparams.spikeClusters==curUnitID);
     curUnitnSpikes = size(curSpikeTimes,1);
     spikeTimesRP = curSpikeTimes(randperm(curUnitnSpikes));
     spikeTimeKeeps(curUnitInd,1:min([gwfparams.nWf curUnitnSpikes])) = sort(spikeTimesRP(1:min([gwfparams.nWf curUnitnSpikes])));
     for curSpikeTime = 1:min([gwfparams.nWf curUnitnSpikes])
+         disp(['curSpikeTime ' num2str(curSpikeTime)])
         tmpWf = mmf.Data.x(1:gwfparams.nCh,spikeTimeKeeps(curUnitInd,curSpikeTime)+gwfparams.wfWin(1):spikeTimeKeeps(curUnitInd,curSpikeTime)+gwfparams.wfWin(end));
         waveForms(curUnitInd,curSpikeTime,:,:) = tmpWf(chMap,:);
     end

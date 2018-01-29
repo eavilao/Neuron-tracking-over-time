@@ -1,7 +1,7 @@
 % getWaveForms params
 
 %get dat filename
-dat_filename = dir('*.dat');
+dat_filename = dir('m*.dat');
 dat_file = dat_filename.name; 
 
 gwfparams.dataDir = pathFile;                                                                               % KiloSort/Phy output folder
