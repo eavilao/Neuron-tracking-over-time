@@ -43,29 +43,27 @@ spikeTimeKeeps = nan(numUnits,gwfparams.nWf);
 waveForms = nan(numUnits,gwfparams.nWf,gwfparams.nCh,wfNSamples);
 waveFormsMean = nan(numUnits,gwfparams.nCh,wfNSamples);
 for curUnitInd= 1:numUnits
-    
-    if curUnitInd == 126
-        keyboard
-    end
-    
     curUnitID = unitIDs(curUnitInd);
     curSpikeTimes = gwfparams.spikeTimes(gwfparams.spikeClusters==curUnitID);
+    curSpikeTimes = curSpikeTimes(2:end-1); % remove first adnd last spike because they might spill outside the range
     curUnitnSpikes = size(curSpikeTimes,1);
     spikeTimesRP = curSpikeTimes(randperm(curUnitnSpikes));
     spikeTimeKeeps(curUnitInd,1:min([gwfparams.nWf curUnitnSpikes])) = sort(spikeTimesRP(1:min([gwfparams.nWf curUnitnSpikes])));
     for curSpikeTime = 1:min([gwfparams.nWf curUnitnSpikes])
-         disp(['curSpikeTime ' num2str(curSpikeTime)])
         tmpWf = mmf.Data.x(1:gwfparams.nCh,spikeTimeKeeps(curUnitInd,curSpikeTime)+gwfparams.wfWin(1):spikeTimeKeeps(curUnitInd,curSpikeTime)+gwfparams.wfWin(end));
         waveForms(curUnitInd,curSpikeTime,:,:) = tmpWf(chMap,:);
     end
-    waveFormsMean(curUnitInd,:,:) = squeeze(nanmean(waveForms(curUnitInd,:,:,:)));
+    waveFormsMean(curUnitInd,:,:) = squeeze(nanmean(waveForms(curUnitInd,:,:,:))); % Waveforms mean
+    % waveForms = squeeze(waveForms(curUnitInd,:,:,:));
+    wf.numSpikes(curUnitInd) = length(spikeTimeKeeps(curUnitInd,1:min([gwfparams.nWf curUnitnSpikes]))); 
     disp(['Completed ' int2str(curUnitInd) ' units of ' int2str(numUnits) '.']);
 end
 
 % Package in wf struct
 wf.unitIDs = unitIDs;
 wf.spikeTimeKeeps = spikeTimeKeeps;
-% wf.waveForms = waveForms;
+wf.waveForms = waveForms;
 wf.waveFormsMean = waveFormsMean;
+
 
 end

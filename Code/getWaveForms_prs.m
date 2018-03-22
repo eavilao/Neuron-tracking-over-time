@@ -2,7 +2,15 @@
 
 %get dat filename
 dat_filename = dir('m*.dat');
-dat_file = dat_filename.name; 
+if isempty(dat_filename)
+    disp('.dat file not found!  Creating .dat file...')
+    fname = dir('m*.ns6');
+    MakeDatFile(fname.name(1:end-4));  %makeDatFile
+    dat_filename = dir('m*.dat');
+    dat_file = dat_filename.name;
+else
+    dat_file = dat_filename.name;
+end
 
 gwfparams.dataDir = pathFile;                                                                               % KiloSort/Phy output folder
 gwfparams.fileName = dat_file;                                                                              % .dat file containing the raw 
